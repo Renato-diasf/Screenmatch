@@ -17,5 +17,5 @@ ScreenMatch é uma aplicação para gerenciar séries e filmes, calcular tempos 
    ```sh
    mvn exec:java -Dexec.mainClass="br.com.diaslitz.screenshot.principal.Principal"
 
-
+Caso o mvn não dê certo, os testes podem ser executados individualmente, sendo estes o SerieTest, FilmeTest, CalculadoraTest, EpisodioTest e FiltroRecomendacaoTest;
 
