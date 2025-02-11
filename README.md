@@ -14,7 +14,7 @@ Screenmatch é uma aplicação Java que gerencia informações sobre filmes e s�
 
 ## Testes Automatizados
 
-O projeto conta com testes unitários para validar o comportamento das principais funcionalidades.
+O projeto conta com testes unitários para validar o comportamento das principais funcionalidades, sendo que estes se encontram no pacote "principal".
 
 ### **FilmeTest**
 Testa a média de avaliação de um filme.
