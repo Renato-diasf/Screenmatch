@@ -10,9 +10,11 @@ ScreenMatch é uma aplicação para gerenciar séries e filmes, calcular tempos 
    cd Screenmatch
 
 2. Compilar e executar os testes
+   ```sh
    mvn clean test
 
-3. Para rodar a aplicação:
+4. Para rodar a aplicação:
+   ```sh
    mvn exec:java -Dexec.mainClass="br.com.diaslitz.screenshot.principal.Principal"
 
 
